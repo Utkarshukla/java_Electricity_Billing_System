@@ -28,7 +28,7 @@ A full-stack **Java + MySQL desktop application** for managing electricity billi
 ---
 
 ## 📸 UI Screenshots
-['sample'](image.png,'Utkarsh Shukla');
+['sample'](image.png);
 
 ---
 
