@@ -37,8 +37,8 @@ A full-stack **Java + MySQL desktop application** for managing electricity billi
 1. **Install Java JDK 18** and **MySQL**
 2. **Clone the project**:
    ```bash
-   git clone https://github.com/yourusername/electricity-bill-system.git
-   cd electricity-bill-system
+   git clone https://github.com/Utkarshukla/java_Electricity_Billing_System.git
+   cd java_Electricity_Billing_System
 
 // thanks to
 Engineering Org In
