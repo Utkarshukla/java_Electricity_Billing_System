@@ -40,7 +40,9 @@ A full-stack **Java + MySQL desktop application** for managing electricity billi
    git clone https://github.com/yourusername/electricity-bill-system.git
    cd electricity-bill-system
 
-
+// thanks to
+Engineering Org In
+Learn Programming Online
 
 ## database tables 
 
